@@ -1,7 +1,7 @@
 # React color factory app
 > app created using React, sass, animations created with anime.js, background made with Trianglify
 ## See it live
-[React color factory app live on github](https://daliborkoenig.github.io/react-color-factory/)
+[React color factory app live on github](https://daliborkoenig.github.io/react-color-factory-app/)
 ## App Info
 practicing working with hooks on a multi-layered app
 
